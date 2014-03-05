@@ -36,6 +36,10 @@
         <servlet-name>EjemploServlet</servlet-name>
         <servlet-class>com.seas.SessionServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>EncuestaServlet</servlet-name>
+        <servlet-class>com.seas.EncuestaServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>MiPrimerServlet</servlet-name>
         <url-pattern>/MiPrimerServlet</url-pattern>
@@ -47,6 +51,10 @@
     <servlet-mapping>
         <servlet-name>EjemploServlet</servlet-name>
         <url-pattern>/EjemploServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>EncuestaServlet</servlet-name>
+        <url-pattern>/EncuestaServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
