@@ -19,3 +19,4 @@ Descripción de los proyectos:
   
 * __UD4AppWeb__: Ejemplos sencillos de servicios web con conexión a bases de datos
  * __JDBCExample__: Conexión simple a la BD 
+ * __GestionNotas__: Ejemplo con SELECT e INSERT.
