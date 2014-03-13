@@ -14,3 +14,4 @@ Descripción de los proyectos:
   * __SessionServlet__: Mantiene inciada una sesión y registra el número de veces que el usuario refresca el navegador.
   * __ResumenServlet__: Carga en el HTML los diferentes parámetros de configuración del servlet.
   * __EncuestaServlet__: Muestra un formulario al usuario. Al aceptar, carga otro HTMl con los datos introducidos.
+  * __MiPrimerJSP__: JPS con el Hello World!
