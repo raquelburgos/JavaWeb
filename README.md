@@ -6,6 +6,7 @@ Ejemplos sencillos de programación con Java EE. Los proyectos han sido desarrol
 * IDE NetBeans 7.4
 * Java EE 7 Web
 * GlassFish Server 4 
+* MySQL 5.5
 
 Descripción de los proyectos:
 
@@ -15,3 +16,6 @@ Descripción de los proyectos:
   * __ResumenServlet__: Carga en el HTML los diferentes parámetros de configuración del servlet.
   * __EncuestaServlet__: Muestra un formulario al usuario. Al aceptar, carga otro HTMl con los datos introducidos.
   * __MiPrimerJSP__: JPS con el Hello World!
+  
+* __UD4AppWeb__: Ejemplos sencillos de servicios web con conexión a bases de datos
+ * __JDBCExample__: Conexión simple a la BD 
